@@ -2,7 +2,7 @@
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-#### [关于litelife](https://github.com/lite-life/litelife) 可访问 www.litelife.cc
+#### [litelife](https://github.com/lite-life/litelife) 主页 www.litelife.cc
 
 ## [简介](https://github.com/lite-life/litelife/wiki) 
 
@@ -13,25 +13,27 @@ litelife是简赋生活的解决方式，此工程的目的在于软硬件结合
 
 ## [组成](litelife/)
 
-#### [田园生活](https://github.com/lite-life/farmer)
+如果说这短暂的人生，应该怎要度过，我期望时间的分布和组成是如下这样的
 
-智能化管理田间地头农场庄园，探索最少人力实现最大能力
+#### [田园生活](https://github.com/lite-life/farm)
 
-#### [旅途生活](https://github.com/lite-life/vehicle)
+很想回归到农耕田园生活，有可配置的风调雨顺五谷丰登
 
-通过赋能交通工具，提升旅途的体验感和舒适感
+#### [旅途生活](https://github.com/lite-life/travel)
 
-#### [御宅生活](https://github.com/lite-life/otaku)
+生活需要动静结合，我们会期待未至的远方和沿途的风景
 
-极尽所能，完成个人微小世界的强大梦幻
+#### [蜗居生活](https://github.com/lite-life/abode)
 
-#### [技术生活](https://github.com/lite-life/hacker)
+为理想，可以排队拥挤，可以蜗居一隅，但求不委屈自己
 
-最理想的设计和最强大的芯片组合
+#### [技术生活](https://github.com/lite-life/geek)
+
+时代所赐予的机会，现在玩刚刚好，以前太浅，以后太难
 
 #### [精英生活](https://github.com/lite-life/elite)
 
-用强大的数据优化人生价值
+为社会创造价值，但不是以为社会的名义浪费自己的时间
 
 ---
 
