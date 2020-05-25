@@ -1,13 +1,7 @@
-﻿# [ethernet](https://github.com/Qful/ethernet) 
+﻿# [ETH](https://github.com/Qful/ETH) 
 
 [![sites](http://182.61.61.133/link/resources/Qful.png)](https://stop.stops.top) 
 
-### [ethernet简介](https://github.com/Qful/ethernet)
+### [ETH简介](https://github.com/Qful/ETH)
 
-
-### [工程目录](https://github.com/Qful)
-
-* [文档](docs/)
-* [资源](src/)
-
-### www.Qful.net
+外设驱动芯片，用于扩展以太网通信
